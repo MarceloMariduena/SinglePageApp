@@ -1,17 +1,17 @@
 {
-  "main.css": "/SinglePageApp/static/css/main.892947b2.chunk.css",
-  "main.js": "/SinglePageApp/static/js/main.f617b17a.chunk.js",
-  "main.js.map": "/SinglePageApp/static/js/main.f617b17a.chunk.js.map",
+  "main.css": "/SinglePageApp/static/css/main.2e8e6ca7.chunk.css",
+  "main.js": "/SinglePageApp/static/js/main.189736f9.chunk.js",
+  "main.js.map": "/SinglePageApp/static/js/main.189736f9.chunk.js.map",
   "runtime~main.js": "/SinglePageApp/static/js/runtime~main.19d82a81.js",
   "runtime~main.js.map": "/SinglePageApp/static/js/runtime~main.19d82a81.js.map",
   "static/js/2.f0f15594.chunk.js": "/SinglePageApp/static/js/2.f0f15594.chunk.js",
   "static/js/2.f0f15594.chunk.js.map": "/SinglePageApp/static/js/2.f0f15594.chunk.js.map",
   "index.html": "/SinglePageApp/index.html",
-  "precache-manifest.4898e6151ddbc197da2fe829fdfb0f1f.js": "/SinglePageApp/precache-manifest.4898e6151ddbc197da2fe829fdfb0f1f.js",
+  "precache-manifest.454f82f87792df6723c8b63b2b8317b2.js": "/SinglePageApp/precache-manifest.454f82f87792df6723c8b63b2b8317b2.js",
   "service-worker.js": "/SinglePageApp/service-worker.js",
-  "static/css/main.892947b2.chunk.css.map": "/SinglePageApp/static/css/main.892947b2.chunk.css.map",
+  "static/css/main.2e8e6ca7.chunk.css.map": "/SinglePageApp/static/css/main.2e8e6ca7.chunk.css.map",
   "static/media/oscarWinners1.jpg": "/SinglePageApp/static/media/oscarWinners1.4a4a17d6.jpg",
   "static/media/oscarWinners2.jpg": "/SinglePageApp/static/media/oscarWinners2.4cae0712.jpg",
   "static/media/oscarWinners3.jpg": "/SinglePageApp/static/media/oscarWinners3.cffa8126.jpg",
-  "static/media/oscars.jpg": "/SinglePageApp/static/media/oscars.e9c1c53d.jpg"
+  "static/media/oscars.jpg": "/SinglePageApp/static/media/oscars.d857247c.jpg"
 }
