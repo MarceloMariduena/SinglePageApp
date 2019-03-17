@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "f6cb9274b9b13ba213cef1757d2c1aa5",
-    "url": "/SinglePageApp/static/media/oscars1.f6cb9274.jpg"
+    "revision": "e9c1c53d65291bf641341fd03d5daa1d",
+    "url": "/SinglePageApp/static/media/oscars.e9c1c53d.jpg"
   },
   {
     "revision": "cffa8126bd14a19766e3c22e5cd0ad0e",
@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/SinglePageApp/static/js/runtime~main.19d82a81.js"
   },
   {
-    "revision": "4a487db1401f4ac2a5fc",
-    "url": "/SinglePageApp/static/js/main.9a374d45.chunk.js"
+    "revision": "b77e956997f46b831619",
+    "url": "/SinglePageApp/static/js/main.f617b17a.chunk.js"
   },
   {
-    "revision": "f7fa9875e97ff5964b28",
-    "url": "/SinglePageApp/static/js/2.a2f3f7af.chunk.js"
+    "revision": "6971a4720045b533ac72",
+    "url": "/SinglePageApp/static/js/2.f0f15594.chunk.js"
   },
   {
-    "revision": "4a487db1401f4ac2a5fc",
-    "url": "/SinglePageApp/static/css/main.2d8d9739.chunk.css"
+    "revision": "b77e956997f46b831619",
+    "url": "/SinglePageApp/static/css/main.892947b2.chunk.css"
   },
   {
-    "revision": "230e9c7a43ceb42c2a9c05ef2d8465e6",
+    "revision": "9cf4e27395f3131b153ead87a221ab1c",
     "url": "/SinglePageApp/index.html"
   }
 ];
