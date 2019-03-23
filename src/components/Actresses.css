@@ -1,0 +1,21 @@
+.actresses .container {
+    background-color: white;
+    padding: 30px;
+}
+
+.actressesGrid {
+    display: grid;
+    padding: 10px;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.actressesGrid img {
+    width: 100%;
+}
+
+@media only screen and (max-width: 768px){
+    .actressesGrid {
+        grid-template-columns: 1fr;
+    }
+}

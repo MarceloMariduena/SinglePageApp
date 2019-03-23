@@ -12,3 +12,18 @@ body {
     max-width: 768px;
     margin: auto;
 }
+
+.title {
+    text-align: center;
+    background-color: black;
+    color: darkgoldenrod;
+    padding: 10px;
+    box-shadow: 3px 3px 3px #333;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: Lato;  
+}

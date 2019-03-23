@@ -1,0 +1,21 @@
+.actors .container {
+    background-color: white;
+    padding: 30px;
+}
+
+.actorsGrid {
+    display: grid;
+    padding: 10px;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.actorsGrid img {
+    width: 100%;
+}
+
+@media only screen and (max-width: 768px){
+    .actorsGrid {
+        grid-template-columns: 1fr;
+    }
+}
