@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/SinglePageApp/static/media/rami.8c738707.jpg"
   },
   {
-    "revision": "09e50c53f25398e31ce4",
+    "revision": "0f8da9c1b8f95b50d98d",
     "url": "/SinglePageApp/static/css/main.15fff167.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/SinglePageApp/static/media/oscars.d857247c.jpg"
   },
   {
-    "revision": "09e50c53f25398e31ce4",
-    "url": "/SinglePageApp/static/js/main.c44aaa04.chunk.js"
+    "revision": "0f8da9c1b8f95b50d98d",
+    "url": "/SinglePageApp/static/js/main.e6d467fc.chunk.js"
   },
   {
     "revision": "959f1e2a971902989a04af6d01373693",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/SinglePageApp/static/media/beale.676a7553.jpg"
   },
   {
-    "revision": "ac69ab49a682cd1aa21a1910d7cecd30",
+    "revision": "2e3f0c737e47329088368de7d82e41b7",
     "url": "/SinglePageApp/index.html"
   }
 ];
