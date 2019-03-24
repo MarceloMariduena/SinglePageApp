@@ -15,6 +15,7 @@ class App extends Component {
 
           <Navbar logo="Oscars 2019" first="Best Actors" second="Best Actresses" third="Best Films"/>
           <Route exact path="/" render={()=> <Home title="Winners" />} />
+          <Route exact path="/Home" render={()=> <Home title="Winners" />} />
           <Route exact path="/Actors" render={()=> <Actors />} />
           <Route exact path="/Actresses" render={()=> <Actresses />} />
           <Route exact path="/Films" render={()=> <Films />} />
