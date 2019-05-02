@@ -2,7 +2,7 @@
   "name": "single-page-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://MarceloMariduena.github.io/ReactJSSinglePageApp",
+  "homepage": "http://MarceloMariduena.github.io/SinglePageApp",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.4",
